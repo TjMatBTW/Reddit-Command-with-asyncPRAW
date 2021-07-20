@@ -18,3 +18,9 @@ Useful websites:
 
 1. asyncPRAW Documentation (I strongly recommend reading this, there is a lot of useful information that might help you starting): https://asyncpraw.readthedocs.io/en/stable/ 
 2. Discord.py Documentation: https://discordpy.readthedocs.io/en/stable/
+
+-------------------------------------------------//-------------------------------------------------
+
+Steps:
+
+1. Install asyncPRAW through Command Prompt. ``pip install asyncpraw``
