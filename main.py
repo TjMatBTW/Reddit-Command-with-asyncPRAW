@@ -1,8 +1,3 @@
-# pip install asyncpraw or if you want to upgrade it pip install --upgrade asyncpraw
-# For older and testing versions refer to https://asyncpraw.readthedocs.io/en/stable/getting_started/installation.html
-# If any indentation is badly made, it is because the command was made in a cog originally, so yeah.
-
-
 import asyncpraw
 
 @client.command()
