@@ -24,6 +24,8 @@ Useful websites:
 Steps:
 
 1. Install asyncPRAW through Command Prompt: ``pip install asyncpraw``
-If you already have it, simply upgrade it using ``pip --upgrade asyncpraw``
-For older and testing versions please refer to
+(If you already have it, simply upgrade it using ``pip install --upgrade asyncpraw``
+For older and testing versions refer to https://asyncpraw.readthedocs.io/en/stable/getting_started/installation.html)
+2. Create a Reddit Application through https://reddit.com/prefs/apps [MAKE SURE YOU SELECT PERSONAL SCRIPT, OTHERWISE IT WILL NOT WORK!]
+3. Write the code provided in ``main.py`` in a file. 
 
