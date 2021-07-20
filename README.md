@@ -23,4 +23,4 @@ Useful websites:
 
 Steps:
 
-1. Install asyncPRAW through Command Prompt. ``pip install asyncpraw``
+1. Install asyncPRAW through Command Prompt: ``pip install asyncpraw``
