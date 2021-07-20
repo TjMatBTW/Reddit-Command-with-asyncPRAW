@@ -27,5 +27,5 @@ Steps:
 (If you already have it, simply upgrade it using ``pip install --upgrade asyncpraw``
 For older and testing versions refer to https://asyncpraw.readthedocs.io/en/stable/getting_started/installation.html)
 2. Create a Reddit Application through https://reddit.com/prefs/apps [MAKE SURE YOU SELECT PERSONAL SCRIPT, OTHERWISE IT WILL NOT WORK!]
-3. Write the code provided in ``main.py`` in a file. 
-
+3. Write the code provided in ``main.py`` in a file. I expect that you have minimum knowledge of Python/how to make a bot work to configure this command.
+4.Fill the 
