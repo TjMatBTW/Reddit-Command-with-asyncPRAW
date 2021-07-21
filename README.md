@@ -33,11 +33,10 @@ For older and testing versions refer to https://asyncpraw.readthedocs.io/en/stab
 
 -------------------------------------------------//-------------------------------------------------
 
-
 Please note that sending the meme will take a few seconds. 
-![image](https://user-images.githubusercontent.com/84541272/126484921-c97a02fc-f648-45f2-baeb-b2c59c156450.png)
+
 -------------------------------------------------//-------------------------------------------------
 
 Made by TjMat#0001 
 
-
+![image](https://user-images.githubusercontent.com/84541272/126484921-c97a02fc-f648-45f2-baeb-b2c59c156450.png)
