@@ -27,14 +27,15 @@ Steps:
 (If you already have it, simply upgrade it using ``pip install --upgrade asyncpraw``
 For older and testing versions refer to https://asyncpraw.readthedocs.io/en/stable/getting_started/installation.html)
 2. Create a Reddit Application through https://reddit.com/prefs/apps [MAKE SURE YOU SELECT PERSONAL SCRIPT, OTHERWISE IT WILL NOT WORK!]
-3. Write the code provided in ``main.py`` in a file. I expect that you have minimum knowledge of Python/how to make a bot work to configure this command.
-4.Fill in the gaps with your account & application information.
+3. Write the code provided in ``main.py`` in a file. (I expect that you have minimum knowledge of Python/how to make a bot work to configure this command)
+4. Fill in the gaps with your account & application information. For the Client ID and secret, check the picture, the username is your account username, and the password is your account username, the User Agent can be whatever you want. In the about URL and in the redirect URI, simply type ``https://localhost:8080``. 
 5. Run the bot and test the command.
 
 -------------------------------------------------//-------------------------------------------------
 
-Please note that sending the meme will take a few seconds. 
 
+Please note that sending the meme will take a few seconds. 
+![image](https://user-images.githubusercontent.com/84541272/126484921-c97a02fc-f648-45f2-baeb-b2c59c156450.png)
 -------------------------------------------------//-------------------------------------------------
 
 Made by TjMat#0001 
