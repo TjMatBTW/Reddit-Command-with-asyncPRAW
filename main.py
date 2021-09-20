@@ -35,5 +35,7 @@ async def meme(ctx, subred="memes"):
     await ctx.send(f'{ctx.author.mention}')
     await ctx.send(embed=em)
 
-    
-# Made by TjMat#0001
+
+client.run('token')
+
+# Made by TjMat#5830
