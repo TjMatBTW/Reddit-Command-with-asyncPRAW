@@ -1,7 +1,11 @@
+import discord
+from discord.ext import commands
 import asyncpraw
 
+client = commands.Bot(command_prefix='!')
+
 @client.command()
-async def meme(self, ctx, subred="memes"):
+async def meme(ctx, subred="memes"):
     msg = await ctx.send('Getting the best meme from this category. Please wait...')
     await asyncio.sleep(5)
     await msg.delete()
