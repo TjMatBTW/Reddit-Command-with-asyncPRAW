@@ -1,4 +1,4 @@
-A simple meme command that sends the top submissions of a subreddit using asyncPRAW (The Asynchronous Python Reddit API Wrapper, more compatible)
+A simple command that sends the top submissions of a subreddit using asyncPRAW (The Asynchronous Python Reddit API Wrapper, more compatible)
 
 asyncPRAW was originally created by Joel Payne.
 
@@ -6,7 +6,7 @@ asyncPRAW was originally created by Joel Payne.
 
 I decided to make this as I only found 1 video teaching how to make a command using this process on YouTube, and the code in the video had bugs. 
 If you have any problems, send me a DM in Discord as I don't check other social media often. I don't usually accept random friend requests, 
-so I recommend joining a server where I'm in so you can DM me. If there, look for my username ``TjMat#5830``.
+so I recommend joining a server where I'm in so you can DM me. If there, look for my username ``TjMat#0001``.
 
 1. https://discord.gg/python
 2. https://discord.gg/dpy
